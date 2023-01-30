@@ -7,7 +7,7 @@
   "resolved" "https://registry.npmjs.org/@adobe/css-tools/-/css-tools-4.1.0.tgz"
   "version" "4.1.0"
 
-"@alch/alchemy-web3@^1.0.1":
+"@alch/alchemy-web3@^1.4.7":
   "integrity" "sha512-7gmRdVDRLRT0PQnVHf4rizgGqHnQGeRJ0KuIjr0ewmMeXlRe8hJEIdEUTg9NjY9TC8jTJkOAiej5io7u9pppFQ=="
   "resolved" "https://registry.npmjs.org/@alch/alchemy-web3/-/alchemy-web3-1.4.7.tgz"
   "version" "1.4.7"
