@@ -88,7 +88,7 @@ export const getCurrentWalletConnected = async () => {
 
 export const mintNFT = async (url, name, description) => {
   //error handling
-  if (url.trim() === "" || name.trim() == "" || description.trim() == "") {
+  if (url.trim() === "" || name.trim() === "" || description.trim() === "") {
     return {
       success: false,
       status: "❗Please make sure all fields are completed before minting.",
@@ -96,7 +96,7 @@ export const mintNFT = async (url, name, description) => {
   }
 
   //make metadata
-  const metadata = new Object();
+  const metadata = {};
   metadata.name = name;
   metadata.image = url;
   metadata.description = description;
