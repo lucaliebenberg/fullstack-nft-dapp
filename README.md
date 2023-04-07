@@ -1,7 +1,5 @@
-This project is a Fullstack NFT Minitng Dapp that allows you to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3.
-
-
 # 🗃 NFT Minter
+This project is a Fullstack NFT Minitng Dapp that allows you to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3.
 Live demo [here](coming soon...).
 
 ## Table of Contents
